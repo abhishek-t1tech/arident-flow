@@ -1,0 +1,12 @@
+.djs-container svg {
+  background-color: var(--color-surface);
+}
+
+.djs-palette {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+.djs-context-pad .entry:hover {
+  background: rgba(192, 138, 62, 0.18);
+}
